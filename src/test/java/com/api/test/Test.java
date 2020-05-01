@@ -9,6 +9,10 @@ public class Test {
 		//fsfsdfs
 		//fsfsdfsd
 		//csdvsv
+		
+		//added by architect line 1
+		//architect line 2
+		//architect line 3
 	}
 
 }
