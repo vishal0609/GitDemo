@@ -3,8 +3,7 @@ hello
 2
 4
 3
-4
-32
+
 
 aplpha
 a
